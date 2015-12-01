@@ -2,7 +2,7 @@ from Tkinter import *
 import wx
 
 VERSION = "2.2"
-LAST_UPDATED = "Nov 27, 2015"
+LAST_UPDATED = "Nov 30, 2015"
 wordlist = {} 
 
 class MyFrame(wx.Frame):
