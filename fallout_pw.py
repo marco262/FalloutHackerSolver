@@ -129,6 +129,7 @@ class MyFrame(wx.Frame):
 
     def OnGainFocusTB(self, event):
         wx.CallAfter(event.GetEventObject().SelectAll)
+        event.Skip()
     
     def OnExit(self, event):
         pass
