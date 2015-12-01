@@ -1,7 +1,7 @@
 from Tkinter import *
 import wx
 
-VERSION = "2.2"
+VERSION = "2.2.1"
 LAST_UPDATED = "Nov 30, 2015"
 wordlist = {} 
 
